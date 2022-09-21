@@ -58,7 +58,6 @@
 | 정세엽 | [seyeop03](http://github.com/seyeop03) |
 | 정세영 | [tpdud3406](http://github.com/tpdud3406) |
 | 정소이 | [soiejung](http://github.com/soiejung) |
-| 정소이 | [soiejung](http://github.com/soiejung) |
 | 정승원 | [JeongSWsw](http://github.com/JeongSWsw) |
 | 정준혁 | [Junhyeok17](http://github.com/Junhyeok17) |
 | 정태운 | [TaeWoonJeong](http://github.com/TaeWoonJeong) |
