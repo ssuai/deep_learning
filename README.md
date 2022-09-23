@@ -27,6 +27,7 @@
 | 김승기 | [danielKim614](http://github.com/danielKim614) |
 | 김용성 | [dydtjd8850](http://github.com/dydtjd8850) |
 | 김인엽 | [miki7ok](http://github.com/miki7ok) |
+| 김현정 | [hyeonjeongk](http://github.com/hyeonjeongk) |
 | 김효진 | [setly99](http://github.com/setly99) |
 | 나웅희 | [skapzm](http://github.com/skapzm) |
 | 노진 | [Jin-Roh06](http://github.com/Jin-Roh06) |
